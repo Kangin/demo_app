@@ -6,8 +6,6 @@
 development:
   adapter: postgresql
   database: db/development.sqlite3
-  user: liangyi.san@gmail.com
-  password: ukrnk9w;@50
   pool: 5
   timeout: 5000
 
